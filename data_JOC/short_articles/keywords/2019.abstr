@@ -1,0 +1,49 @@
+roadside
+vehicle region
+vehicle images
+vehicle sizes
+chrominance
+detection
+sunny
+small
+vehicles
+large
+colors
+similar
+effective
+inaccurate vehicle segmentation
+vehicle edge pixels
+edge map
+edge pixel
+cast shadow
+angles
+overhead
+input image
+luminance
+regions
+robust segmentation
+gradient density
+neighboring scss
+high scss
+cloudy
+medium
+method
+cast shadow detection
+scs
+shadow confidence score
+stationary background
+geometry domains
+convex hull
+error rate
+characteristics
+effective method
+different lighting conditions
+accurate scene analysis
+erroneous scene analysis
+combined probability map
+average error rate
+monocular color traffic image sequences
+presence
+result
+road
+results
