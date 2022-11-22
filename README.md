@@ -62,3 +62,6 @@ code for long article with ground truth:
 The output would be Table 8 and Table 10,respectively. However, adjacent keywords were grouped manually once again. 
 
 - ./semeval_author_obs.R: Experiments on long articles data from Semeval 2010.
+
+[![DOI](https://zenodo.org/badge/568171078.svg)](https://zenodo.org/badge/latestdoi/568171078)
+
