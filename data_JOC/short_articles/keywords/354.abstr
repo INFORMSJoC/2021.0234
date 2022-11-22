@@ -1,0 +1,27 @@
+|f|
+path
+edges
+v
+q/sub n/-f
+q/sub n/-
+length
+n
+or=2
+f
+or=3
+bounds
+partite set
+hypercube q/sub n/
+subset
+or=n-2
+or=n-3
+hamiltonian path
+-f
+n/-2
+different partite sets
+same partite set
+hypercubes
+vertices
+v. furthermore
+bipartite graph
+fault-tolerant hamiltonian laceability
