@@ -15,6 +15,8 @@ all short articles data files are tokenized and pos-taggered.
 
 Hulth 2003 dataset reference: 
 
+[![DOI](https://zenodo.org/badge/568171078.svg)](https://zenodo.org/badge/latestdoi/568171078)
+
 Improved automatic keyword extraction given more linguistic knowledge Anette Hulth. In Proceedings of EMNLP 2003. p. 216-223.
 
 - long article example with ground truth: ./C-42.txt
