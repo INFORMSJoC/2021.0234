@@ -1,10 +1,12 @@
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
+
 # BSS-Keyphrase-Extraction
 
 
 
-
+## Datasets
 --------------------------------------------------------------------------
-[datasets]
+
 
 [text files: /data_JOC]
 
@@ -14,8 +16,6 @@ all short articles data files are tokenized and pos-taggered.
 - short article data ground truths from Hulth 2003 : ./short_article/keywords
 
 Hulth 2003 dataset reference: 
-
-[![DOI](https://zenodo.org/badge/568171078.svg)](https://zenodo.org/badge/latestdoi/568171078)
 
 Improved automatic keyword extraction given more linguistic knowledge Anette Hulth. In Proceedings of EMNLP 2003. p. 216-223.
 
@@ -40,7 +40,7 @@ Kim SN, Medelyan O, Kan MY, Baldwin T (2010) Semeval-2010 task 5 : Automatic key
 The original dataset is available: https://semeval2.fbk.eu/semeval2.php?location=download&task_id=6&datatype=test
 
 --------------------------------------------------------------------------
-[code for analysis]
+## Code for analysis
 
 [text files: /code_JOC]
 
@@ -65,5 +65,17 @@ The output would be Table 8 and Table 10,respectively. However, adjacent keyword
 
 - ./semeval_author_obs.R: Experiments on long articles data from Semeval 2010.
 
-[![DOI](https://zenodo.org/badge/568171078.svg)](https://zenodo.org/badge/latestdoi/568171078)
 
+
+## Cite
+Below is the BibTex for citing this version of the repository.
+
+```
+@article{BSS,
+  author =        {G. Wang and Y. Cheng and Y. Xia and Q. Ling and X. Wang},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{BSS} Version v2021.0234},
+  year =          {2022},
+  doi =           {10.5281/zenodo.7348935},
+  note =          {available for download at https://github.com/INFORMSJoC/2021.0234},
+}  
