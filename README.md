@@ -1,8 +1,30 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# BSS-Keyphrase-Extraction
+# Data and R Scripts for the Experiment of the Paper ["A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data"](https://doi.org/) (DOI TBA)
 
+This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
+This repository includes the data used in the empirical analysis of the paper
+[A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data](https://doi.org/) by G. Wang and Y. Cheng and Y. Xia and Q. Ling and X. Wang.
+
+## Cite
+
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2021.0234) using its DOI and the software itself, using the following DOI.
+
+[![DOI](https://zenodo.org/badge/568171078.svg)](https://zenodo.org/badge/latestdoi/568171078)
+
+Below is the BibTex for citing this version of the repository.
+
+```
+@article{BSS,
+  author =        {G. Wang and Y. Cheng and Y. Xia and Q. Ling and X. Wang},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{BSS} Version v2021.0234},
+  year =          {2022},
+  doi =           {10.5281/zenodo.7348935},
+  note =          {available for download at https://github.com/INFORMSJoC/2021.0234},
+}  
+```
 
 ## Datasets
 --------------------------------------------------------------------------
@@ -67,15 +89,3 @@ The output would be Table 8 and Table 10,respectively. However, adjacent keyword
 
 
 
-## Cite
-Below is the BibTex for citing this version of the repository.
-
-```
-@article{BSS,
-  author =        {G. Wang and Y. Cheng and Y. Xia and Q. Ling and X. Wang},
-  publisher =     {INFORMS Journal on Computing},
-  title =         {{BSS} Version v2021.0234},
-  year =          {2022},
-  doi =           {10.5281/zenodo.7348935},
-  note =          {available for download at https://github.com/INFORMSJoC/2021.0234},
-}  
