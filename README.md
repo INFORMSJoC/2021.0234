@@ -57,7 +57,7 @@ all articles are tokenized, pos-taggered and also stemmed.
 
 Semeval 2010 dataset reference:
 
-Kim SN, Medelyan O, Kan MY, Baldwin T (2010) Semeval-2010 task 5 : Automatic keyphrase extraction from scientific articles. Proceedings of the 5th International Workshop on Semantic Evaluation, 21?26.
+Kim SN, Medelyan O, Kan MY, Baldwin T (2010) Semeval-2010 task 5 : Automatic keyphrase extraction from scientific articles. Proceedings of the 5th International Workshop on Semantic Evaluation, 21-26.
 
 The original dataset is available: https://semeval2.fbk.eu/semeval2.php?location=download&task_id=6&datatype=test
 
