@@ -22,7 +22,7 @@ Below is the BibTex for citing this version of the repository.
   title =         {{BSS} Version v2021.0234},
   year =          {2022},
   doi =           {10.5281/zenodo.7348935},
-  note =          {available for download at https://github.com/INFORMSJoC/2021.0234},
+  url =           {https://github.com/INFORMSJoC/2021.0234},
 }  
 ```
 
