@@ -1,11 +1,11 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# Data for the Empirical Analysis of the Paper["A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data"](https://doi.org/) 
+# Data for the Empirical Analysis of the Paper ["A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data"](https://doi.org/10.1287/ijoc.2023.1283) 
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 This repository includes the data used in the empirical analysis of the paper
-[A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data](https://doi.org/) by G. Wang and Y. Cheng and Y. Xia and Q. Ling and X. Wang.
+[A Bayesian Semi-supervised Approach to Keyword Extraction with Only Positive and Unlabeled Data](https://doi.org/10.1287/ijoc.2023.1283) by G. Wang and Y. Cheng and Y. Xia and Q. Ling and X. Wang.
 
 ## Cite
 
