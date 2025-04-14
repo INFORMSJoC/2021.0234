@@ -9,9 +9,7 @@ This repository includes the data used in the empirical analysis of the paper
 
 ## Cite
 
-To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2021.0234) using its DOI and the software itself, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/568171078.svg)](https://zenodo.org/badge/latestdoi/568171078)
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2023.1283) using its DOI and the software itself, using the following DOI: [https://doi.org/10.1287/ijoc.2023.1283.cd](https://doi.org/10.1287/ijoc.2023.1283.cd)
 
 Below is the BibTex for citing this version of the repository.
 
@@ -21,7 +19,7 @@ Below is the BibTex for citing this version of the repository.
   publisher =     {INFORMS Journal on Computing},
   title =         {{BSS} Version v2021.0234},
   year =          {2022},
-  doi =           {10.5281/zenodo.7348935},
+  doi =           {10.1287/ijoc.2023.1283.cd},
   url =           {https://github.com/INFORMSJoC/2021.0234},
 }  
 ```
